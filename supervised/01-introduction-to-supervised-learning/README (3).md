@@ -53,7 +53,7 @@ L(y, ŷ) = (1/n) × Σ(yᵢ - ŷᵢ)²
 > 🔍 *Analogy: A student (model) studies past exam papers (training data) and then takes a brand new exam (test data) to prove they truly learned — not just memorized.*
 
 > 🖼️ ![Supervised Learning Pipeline](supervised_learning_pipeline.png)
-*Source: [attribution here]*
+*Source: [Generated using ChatGPT (OpenAI)]*
 
 ## 4. Key Assumptions
 
