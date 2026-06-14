@@ -68,7 +68,7 @@ Adjusted R² = 1 - (1 - R²) × (n - 1) / (n - p - 1)
 
 > 🔍 *Analogy: MLR is like a panel of judges each scoring one aspect of a performance — stage presence, vocals, rhythm. The final score is a weighted sum of all judges, each contributing independently. MLR learns the optimal weights (β) for each judge (feature).*
 
-> 🖼️ ![Multi-Linear Regression](mlr_regression_diagram.png)
+> 🖼️ ![Multi-Linear Regression](mlr_diagram.png)
 *Source: [Generated using ChatGPT (OpenAI)]*
 
 ---
