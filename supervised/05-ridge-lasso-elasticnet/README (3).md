@@ -63,9 +63,8 @@ Ridge has a closed-form solution (Normal Equation with a ridge term added):
 
 > 🔍 *Analogy: Imagine each coefficient βⱼ is a rubber band pulling toward zero. OLS lets each band stretch freely to fit the data perfectly. Ridge adds a gentle, constant pull on every band — they all shrink a little, but none snap to zero. Lasso adds a pull strong enough that weak bands snap completely — those features are eliminated entirely.*
 
-> 🖼️ ![Ridge, Lasso, ElasticNet]
-(regularization_diagram.png)
-*Source: [Generated using ChatGPT(OpenAI)]*
+> 🖼️ ![Ridge, Lasso, ElasticNet](regularization_diagram.png)
+*Source: [Generated using ChatGPT (OpenAI)]*
 ---
 
 ## 4. Key Assumptions
