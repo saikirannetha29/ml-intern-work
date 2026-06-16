@@ -133,7 +133,7 @@ Attention mechanisms are used in speech-to-text systems to align audio frames wi
 **3. Medical Image Analysis (Healthcare)**
 Attention is used in radiology AI to highlight which regions of an X-ray or MRI scan the model focused on when making a diagnosis. This makes the model interpretable — doctors can see what the AI "looked at", building trust in clinical settings.
 
-> 🖼️![Real World Attention Heatmap](imgattention_heatmap_realworld.png)
+> 🖼️![Real World Attention Heatmap](imgattention_heatmap_realworld.jpg)
 *Source: [Source from internet]*
 
 ---
