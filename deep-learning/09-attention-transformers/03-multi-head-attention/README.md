@@ -133,7 +133,7 @@ BERT-base uses 12 layers with 12 attention heads each (144 heads total). Researc
 **3. GPT-3 and Modern LLMs (OpenAI, and successors)**
 GPT-3's largest configuration uses 96 attention heads per layer across 96 layers. The sheer number of heads available at every layer is part of what allows large language models to simultaneously track grammar, long-range topic coherence, factual associations, and stylistic tone — all within the same forward pass.
 
-> 🖼️ ![Real World BERT Head Specialization](multi_head_specialization_realworld.jpg)
+> 🖼️ ![Real World BERT Head Specialization](multi_head_specialization_realworld.png)
 *Source: [Source from internet]*
 
 ---
